@@ -1,0 +1,153 @@
+{
+    "products": [
+        {
+            "name": "Blue Buffalo True Solutions Natural Urinary Care Adult Chicken Dry Cat Food",
+            "type": "food",
+            "allergy_status": null,
+            "ingredients": [
+                "Deboned Chicken", "Chicken Meal", "Brown Rice", "Pea Protein", "Potato Starch", 
+                "Dried Egg Product", "Chicken Fat", "Dried Tomato Pomace", "Natural Flavour", 
+                "Potatoes", "Dried Plain Beet Pulp", "Peas", "Fish Oil", "Barley", "Calcium Chloride", 
+                "Choline Chloride", "DL-Methionine", "Calcium Sulfate", "L-Threonine", "Potassium Sulfate", 
+                "Taurine", "Canola Oil", "Dried Chicory Root", "Salt", "Calcium Carbonate", "Flaxseed", 
+                "Pea Fibre", "Alfalfa Nutrient Concentrate", "Potassium Chloride", "Vitamin E Supplement", 
+                "L-Tryptophan", "L-Carnitine", "L-Ascorbyl-2-Polyphosphate", "Vegetable Juice", 
+                "Ferrous Sulfate", "Niacin", "Iron Amino Acid Chelate", "Zinc Amino Acid Chelate", 
+                "Zinc Sulfate", "Blueberries", "Cranberries", "Barley Grass", "Parsley", "Turmeric", 
+                "Dried Kelp", "Yucca Schidigera Extract", "Copper Sulfate", "Thiamine Mononitrate", 
+                "Copper Amino Acid Chelate", "Biotin", "L-Lysine", "Vitamin A Supplement", 
+                "Manganese Sulfate", "Manganese Amino Acid Chelate", "Pyridoxine Hydrochloride", 
+                "Calcium Pantothenate", "Riboflavin", "Vitamin D3 Supplement", "Vitamin B12 Supplement", 
+                "Folic Acid", "Dried Yeast", "Dried Enterococcus faecium fermentation product", 
+                "Dried Lactobacillus acidophilus fermentation product", 
+                "Dried Aspergillus niger fermentation extract", 
+                "Dried Trichoderma longibrachiatum fermentation extract", 
+                "Dried Bacillus subtilis fermentation extract", "Calcium Iodate", "Sodium Selenite", 
+                "Oil of Rosemary"
+            ]
+        },
+        {
+            "name": "Hill's Prescription Diet c/d + Metabolic, Urinary + Weight Care Chicken Flavor Dry Cat Food",
+            "type": "food",
+            "allergy_status": "Maybe",
+            "ingredients": [
+                "Brewers Rice", "Corn Gluten Meal", "Powdered Cellulose", "Wheat Gluten", 
+                "Chicken Meal", "Dried Tomato Pomace", "Chicken Liver Flavor", "Soybean Oil", 
+                "Flaxseed", "Coconut Oil", "L-Lysine", "Fish Oil", "Lactic Acid", "Potassium Citrate", 
+                "Potassium Chloride", "DL-Methionine", "Carrots", "Choline Chloride", "Taurine", 
+                "Iodized Salt", "Vitamin E Supplement", "Niacin Supplement", "Thiamine Mononitrate", 
+                "Pyridoxine Hydrochloride", "Calcium Pantothenate", "Riboflavin Supplement", "Biotin", 
+                "Vitamin B12 Supplement", "Vitamin A Supplement", "Folic Acid", "Vitamin D3 Supplement", 
+                "L-Carnitine", "Ferrous Sulfate", "Zinc Oxide", "Copper Sulfate", "Manganous Oxide", 
+                "Calcium Iodate", "Sodium Selenite", "Calcium Sulfate", "Mixed Tocopherols", 
+                "Natural Flavors", "Beta-Carotene"
+            ]
+        },
+        {
+            "name": "Royal Canin® VETERINARY DIET® Feline Urinary SO® + Satiety Dry Cat Food",
+            "type": "food",
+            "allergy_status": "Allergy",
+            "ingredients": [
+                "Chicken by-product meal", "Tapioca", "Pea fibre", "Wheat gluten", 
+                "Corn gluten meal", "Powdered cellulose", "Rice hulls", "Natural flavours", 
+                "Brewers rice", "Chicken fat", "Chicory", "Salt", "Monocalcium phosphate", 
+                "Potassium chloride", "Calcium sulfate", "Fish oil", "Psyllium seed husk", 
+                "Sodium bisulfate", "DL-methionine", "Choline chloride", "Vitamin E", "Niacin supplement", 
+                "Biotin", "Riboflavin supplement", "Calcium pantothenate", "Pyridoxine hydrochloride", 
+                "Vitamin A", "Thiamine mononitrate", "Vitamin B12 supplement", "Folic acid", 
+                "Vitamin D3 supplement", "Taurine", "Zinc proteinate", "Zinc oxide", 
+                "Manganese proteinate", "Ferrous sulfate", "Manganous oxide", "Copper sulfate", 
+                "Calcium iodate", "Copper proteinate", "Sodium selenite", "Glucosamine hydrochloride", 
+                "L-carnitine", "Chondroitin sulfate", "Rosemary extract", "Mixed tocopherols", 
+                "Citric acid"
+            ]
+        },
+        {
+            "name": "Purina® Pro Plan Veterinary Diets® UR Urinary® St/Ox™ Dry Cat Food Formula",
+            "type": "food",
+            "allergy_status": null,
+            "ingredients": [
+                "Corn protein meal", "Poultry by-product meal", "Rice", "Tuna", "Oat fiber", 
+                "Soybean hulls", "Canola meal", "Soy protein isolate", "Beef fat", "Liver flavor", 
+                "Powdered cellulose", "Salt", "Calcium carbonate", "Phosphoric acid", 
+                "Potassium chloride", "Sodium bisulfate", "Choline chloride", "L-Lysine monohydrochloride", 
+                "Vitamin E supplement", "DL-Methionine", "Taurine", "Fish oil", "L-Carnitine", 
+                "L-ascorbyl-2-polyphosphate", "Niacin", "Zinc sulfate", "Vitamin A supplement", 
+                "Ferrous sulfate", "Calcium pantothenate", "Thiamine mononitrate", 
+                "Vitamin B12 supplement", "Manganese sulfate", "Riboflavin supplement", 
+                "Pyridoxine hydrochloride", "Copper sulfate", "Folic acid", 
+                "Menadione sodium bisulfite complex", "Biotin", "Vitamin D3 supplement", 
+                "Calcium iodate", "Sodium selenite"
+            ]
+        },
+        {
+            "name": "Hill's Prescription Diet c/d Multicare Urinary Care with Chicken Dry Cat Food",
+            "type": "food",
+            "allergy_status": null,
+            "ingredients": [
+                "Chicken", "Whole Grain Corn", "Corn Gluten Meal", "Whole Grain Wheat", 
+                "Brewers Rice", "Chicken Fat", "Chicken Meal", "Egg Product", "Pork Flavor", 
+                "Soybean Oil", "Fish Oil", "L-Lysine", "Lactic Acid", "Calcium Sulfate", 
+                "Potassium Chloride", "Choline Chloride", "Potassium Citrate", "Vitamin E Supplement", 
+                "Niacin Supplement", "Thiamine Mononitrate", "Calcium Pantothenate", 
+                "Pyridoxine Hydrochloride", "Vitamin A Supplement", "Riboflavin Supplement", "Biotin", 
+                "Vitamin B12 Supplement", "Folic Acid", "Vitamin D3 Supplement", "Taurine", 
+                "DL-Methionine", "Iodized Salt", "Ferrous Sulfate", "Zinc Oxide", "Copper Sulfate", 
+                "Manganous Oxide", "Calcium Iodate", "Sodium Selenite", "L-Tryptophan", 
+                "Mixed Tocopherols", "Natural Flavors", "Beta-Carotene"
+            ]
+        },
+        {
+            "name": "Wildly Natural Cat Treats - Tuna Flavour",
+            "type": "treat",
+            "allergy_status": "Allergy",
+            "ingredients": [
+                "Chicken Meal", "Rice Flour", "Barley", "Pea Fiber", "Chicken Broth", "Tuna Meal", 
+                "Flaxseed", "Natural Flavor", "Vinegar", "Brewers Yeast", "Salt", "Citric Acid", 
+                "Sunflower Lecithin"
+            ]
+        },
+        {
+            "name": "TEMPTATIONS™ Cat Treats, Mix-Ups Chicken, Catnip & Cheddar Flavour",
+            "type": "treat",
+            "allergy_status": "No",
+            "ingredients": [
+                "Chicken By-Product Meal", "Ground Corn", "Animal Fat", "Brewers Rice", "Wheat Flour", 
+                "Dried Meat By-Products", "Natural Flavours", "Brewers Dried Yeast", "Potassium Chloride", 
+                "Choline Chloride", "Salt", "Yellow #5", "Blue #2", "Taurine", "DI-Methionine", 
+                "Calcium Carbonate", "Catnip Powder", "Vitamin E", "Zinc Sulfate", "Mixed Tocopherols", 
+                "Red #40", "Dried Cheddar Cheese", "Copper Sulfate", "Vitamin A Acetate", 
+                "Niacin Supplement", "Vitamin B12 Supplement", "Riboflavin Supplement", 
+                "Manganese Sulfate", "Thiamine Mononitrate", "Calcium Pantothenate", "Biotin", 
+                "Vitamin D3 Supplement", "Potassium Iodide", "Pyridoxine Hydrochloride", "Folic Acid"
+            ]
+        },
+        {
+            "name": "FELINE GREENIES™ Adult Dental Oven Roasted Chicken Flavour",
+            "type": "treat",
+            "allergy_status": "Allergy",
+            "ingredients": [
+                "Chicken Meal", "Ground Wheat", "Brewers Rice", "Corn Gluten Meal", "Poultry Fat", 
+                "Oat Fiber", "Natural Flavour", "Ground Flaxseed", "Brewers Dried Yeast", 
+                "Potassium Chloride", "Calcium Carbonate", "Salt", "Choline Chloride", "Citric Acid", 
+                "Fruit Juice Colour", "Taurine", "DL-Methionine", "Mixed Tocopherols", 
+                "Vitamin E Supplement", "Ferrous Sulfate", "Turmeric Colour", "Zinc Sulfate", 
+                "Niacin Supplement", "Zinc Oxide", "Copper Sulfate", "Calcium Pantothenate", 
+                "Vitamin A Supplement", "Thiamine Mononitrate", "Manganous Oxide", 
+                "Riboflavin Supplement", "Pyridoxine Hydrochloride", "Biotin", "Vitamin B12 Supplement", 
+                "Vitamin D3 Supplement", "Sodium Selenite", "Folic Acid", "Calcium Iodate", 
+                "Cobalt Carbonate", "Rosemary Extract"
+            ]
+        },
+        {
+            "name": "Temptations Chewru",
+            "type": "treat",
+            "allergy_status": "Allergy",
+            "ingredients": [
+                "Water", "Chicken Liver", "Chicken by-Product", "Chicken", "Pork Liver", 
+                "Pork by-Product", "Vegetable Oil", "Glycine", "Tapioca Starch", "Dried Milk Protein", 
+                "Xanthan Gum", "Sodium Carboxymethyl Cellulose", "Guar Gum", "Cysteine", "Taurine"
+            ]
+        }
+    ]
+}
